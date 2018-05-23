@@ -1,0 +1,10 @@
+# dependencies:
+
+# sudo apt-get install xclip
+
+
+
+##### commands
+
+# add to terminal output to clipboard e.g. "cat file.txt | clip"
+alias "clip=xclip -selection clipboard"
